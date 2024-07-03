@@ -10,9 +10,9 @@
 
 -   $ npm i gh-pages
 
-        -   package.json 파일
+        -  package.json 파일
 
-            -   "homepage": "https://JinkyunJ.github.io/react-movie-app/"
+            - "homepage": "https://JinkyunJ.github.io/react-movie-app/"
 
              - "deploy": "gh-pages -d bulid",
 
