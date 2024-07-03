@@ -12,7 +12,7 @@
 
         -   package.json 파일
 
-            -   "homepage": "https://JinkyunJ.github.io/ react-movie-app.git"
+            -   "homepage": "https://JinkyunJ.github.io/react-movie-app/"
 
              - "deploy": "gh-pages -d bulid",
 
